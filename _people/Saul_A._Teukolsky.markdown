@@ -2,12 +2,15 @@
 name: Saul A. Teukolsky
 lastname: Teukolsky
 group: faculty
-position: Hans A. Bethe Professor of Physics and Astrophysics
-institution: Cornell University
+affiliations:
+    - position: Hans A. Bethe Professor of Physics and Astrophysics
+      institution: Cornell University
+      phone: 607-255-5897
+      email: saul@astro.cornell.edu
+      address: 608 Space Sciences Building
+    - position: Robinson Professor of Theoretical Astrophysics
+      institution: Caltech
 advisor:
-phone: 607-255-5897
-email: saul@astro.cornell.edu
-address: 608 Space Sciences Building
 specialties: Theoretical Astrophysics
 ---
 
